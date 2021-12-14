@@ -4,7 +4,7 @@ import {
   add, displayRemoveBtn, remove, checkCompleted, update,
 } from './crud.js';
 
-// array of tasks
+// array of tasks .
 let tasks = [];
 
 // Set up localStorage
